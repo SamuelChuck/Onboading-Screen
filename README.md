@@ -1,6 +1,6 @@
-# tontends_onbording
+# sau_onbording
 
-A new tontends-onbording application.
+A New Onbording Application.
 
 ## Getting Started
 
